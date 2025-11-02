@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Privacy Policy - MyInko</title>
+		<style>
+			body {
+				font-family: Arial, sans-serif;
+				max-width: 900px;
+				margin: 40px auto;
+				line-height: 1.7;
+				color: #333;
+			}
+			h1,
+			h2 {
+				color: #222;
+			}
+			hr {
+				margin: 50px 0;
+				border: none;
+				border-top: 2px solid #ccc;
+			}
+			a {
+				color: #0066cc;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Privacy Policy for MyInko</h1>
+		<p>
+			<strong>ivannurhakim</strong> built the <strong>MyInko</strong> app as a
+			free application. This SERVICE is provided by ivannurhakim at no cost and
+			is intended for use as is.
+		</p>
+
+		<h2>Information Collection and Use</h2>
+		<p>
+			MyInko may request access to certain device features to provide its core
+			functionality:
+		</p>
+		<ul>
+			<li>
+				<strong>Camera</strong>: Used to capture photos or scan images required
+				by the app.
+			</li>
+			<li>
+				<strong>Location (GPS)</strong>: Used to determine your location for map
+				or service tracking features.
+			</li>
+			<li>
+				<strong>Storage</strong>: Used to save and retrieve files related to the
+				app’s operation (e.g., images or logs).
+			</li>
+			<li>
+				<strong>Notifications</strong>: Used to send service updates or
+				reminders relevant to the app’s functionality.
+			</li>
+		</ul>
+		<p>
+			All permissions are used only for their stated purposes and are not used
+			to collect personal data without your consent. No personal information is
+			shared or stored on external servers unless required for app
+			functionality.
+		</p>
+
+		<h2>Log Data</h2>
+		<p>
+			Whenever you use MyInko, in case of an error in the app, data and
+			information (through third-party products) may be collected on your device
+			called Log Data. This may include your device name, operating system
+			version, app configuration, time and date of use, and other statistics.
+		</p>
+
+		<h2>Third-Party Services</h2>
+		<p>
+			The app uses third-party services that may collect information used to
+			identify you. Links to their privacy policies:
+		</p>
+		<ul>
+			<li>
+				<a href="https://policies.google.com/privacy" target="_blank"
+					>Google Play Services</a
+				>
+			</li>
+			<li>
+				<a href="https://firebase.google.com/support/privacy" target="_blank"
+					>Firebase</a
+				>
+			</li>
+		</ul>
+
+		<h2>Security</h2>
+		<p>
+			We value your trust in providing your personal information. We use
+			commercially acceptable means to protect it, but please remember that no
+			method of transmission over the Internet or electronic storage is 100%
+			secure and reliable.
+		</p>
+
+		<h2>Changes to This Privacy Policy</h2>
+		<p>
+			This Privacy Policy may be updated from time to time. You are advised to
+			review this page periodically. Any changes will take effect immediately
+			after being published.
+		</p>
+
+		<h2>Contact Us</h2>
+		<p>
+			If you have any questions or suggestions about this Privacy Policy,
+			contact us at
+			<a href="mailto:ivannurhakim@gmail.com">ivannurhakim@gmail.com</a>.
+		</p>
+
+		<p><em>Last updated: November 2025</em></p>
+
+		<hr />
+
+		<h1>Kebijakan Privasi untuk MyInko</h1>
+		<p>
+			<strong>ivannurhakim</strong> membuat aplikasi
+			<strong>MyInko</strong> sebagai aplikasi gratis. Layanan ini disediakan
+			oleh ivannurhakim tanpa biaya dan dimaksudkan untuk digunakan sebagaimana
+			adanya.
+		</p>
+
+		<h2>Pengumpulan dan Penggunaan Informasi</h2>
+		<p>
+			MyInko mungkin meminta akses ke beberapa fitur perangkat untuk mendukung
+			fungsionalitas utama aplikasi:
+		</p>
+		<ul>
+			<li>
+				<strong>Kamera</strong>: Digunakan untuk mengambil foto atau memindai
+				gambar yang dibutuhkan aplikasi.
+			</li>
+			<li>
+				<strong>Lokasi (GPS)</strong>: Digunakan untuk menentukan lokasi Anda
+				dalam fitur peta atau pelacakan layanan.
+			</li>
+			<li>
+				<strong>Penyimpanan</strong>: Digunakan untuk menyimpan dan mengambil
+				file yang berhubungan dengan operasi aplikasi (misalnya gambar atau
+				log).
+			</li>
+			<li>
+				<strong>Notifikasi</strong>: Digunakan untuk mengirim pembaruan layanan
+				atau pengingat yang relevan dengan fungsi aplikasi.
+			</li>
+		</ul>
+		<p>
+			Semua izin digunakan hanya untuk tujuan yang disebutkan dan tidak
+			digunakan untuk mengumpulkan data pribadi tanpa persetujuan Anda. Tidak
+			ada informasi pribadi yang dibagikan atau disimpan di server eksternal
+			kecuali diperlukan untuk fungsi aplikasi.
+		</p>
+
+		<h2>Data Log</h2>
+		<p>
+			Setiap kali Anda menggunakan MyInko, jika terjadi kesalahan dalam
+			aplikasi, data dan informasi (melalui layanan pihak ketiga) dapat
+			dikumpulkan di perangkat Anda yang disebut Data Log. Data ini dapat
+			mencakup nama perangkat, versi sistem operasi, konfigurasi aplikasi, waktu
+			dan tanggal penggunaan, serta statistik lainnya.
+		</p>
+
+		<h2>Layanan Pihak Ketiga</h2>
+		<p>
+			Aplikasi ini menggunakan layanan pihak ketiga yang dapat mengumpulkan
+			informasi untuk mengidentifikasi Anda. Berikut tautan ke kebijakan privasi
+			penyedia layanan tersebut:
+		</p>
+		<ul>
+			<li>
+				<a href="https://policies.google.com/privacy" target="_blank"
+					>Google Play Services</a
+				>
+			</li>
+			<li>
+				<a href="https://firebase.google.com/support/privacy" target="_blank"
+					>Firebase</a
+				>
+			</li>
+		</ul>
+
+		<h2>Keamanan</h2>
+		<p>
+			Kami menghargai kepercayaan Anda dalam memberikan informasi pribadi. Kami
+			berusaha menggunakan cara yang layak secara komersial untuk melindunginya,
+			namun perlu diingat bahwa tidak ada metode transmisi data melalui Internet
+			atau penyimpanan elektronik yang 100% aman dan andal.
+		</p>
+
+		<h2>Perubahan terhadap Kebijakan Privasi ini</h2>
+		<p>
+			Kebijakan privasi ini dapat diperbarui dari waktu ke waktu. Anda
+			disarankan untuk meninjau halaman ini secara berkala untuk mengetahui
+			perubahan apa pun. Setiap perubahan akan berlaku segera setelah
+			diterbitkan di halaman ini.
+		</p>
+
+		<h2>Hubungi Kami</h2>
+		<p>
+			Jika Anda memiliki pertanyaan atau saran tentang Kebijakan Privasi ini,
+			silakan hubungi kami di
+			<a href="mailto:ivannurhakim@gmail.com">ivannurhakim@gmail.com</a>.
+		</p>
+
+		<p><em>Pembaruan terakhir: November 2025</em></p>
+	</body>
+</html>
